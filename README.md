@@ -1,4 +1,4 @@
-# Thanks, Grok!
+# Simple start to finish of turning a python script into a container to run in kubernetes
 
 Docker Hub: https://hub.docker.com/u/aschiebold
 
